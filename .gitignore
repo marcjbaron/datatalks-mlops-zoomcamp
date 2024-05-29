@@ -1,1 +1,5 @@
 data/
+
+# ML Flow artifacts
+mlops/mlruns
+mlruns
